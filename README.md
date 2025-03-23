@@ -1,2 +1,0 @@
-# Gowthamsp
-Digital-portfolio
